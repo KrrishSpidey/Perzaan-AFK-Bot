@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "SpideyRobot2.0",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I am The God of Universe",
+        "Follow me on instagram!",
+        "Meow Ghop Ghop Ghop Ghop!"
       ]
     },
     "chat-log": true,
